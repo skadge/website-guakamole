@@ -3,4 +3,4 @@ TARGET=$(wildcard *.md)
 all: $(TARGET:.md=.html)
 
 %.html: %.md
-	pandoc -s -thtml5 -o $(@) $(<)
+	pandoc -s -thtml5 -cstyles.css -o $(@) $(<)
