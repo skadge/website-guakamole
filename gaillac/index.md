@@ -7,6 +7,8 @@ du Quai St Jacques. Située à deux pas de l'abbaye et du Tarn, elle est au coeu
 du Vieux Gaillac et de ses petites rues piétonnes (en cours de mise en valeur
 par la commune).
 
+![Plan](imgs/plan.png){style="height:300px;"}\ 
+
 Le rez-de-chaussé
 -----------------
 
