@@ -1,4 +1,5 @@
 TARGET=$(wildcard *.md)
+TARGET+=$(wildcard */*.md)
 
 all: $(TARGET:.md=.html)
 
