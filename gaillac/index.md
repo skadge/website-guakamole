@@ -18,9 +18,9 @@ La cuisine et salle à manger
 
 Le salon
 
-|   |   |   |
-|:-:|:-:|:-:|
-| ![Salon 1](imgs/salon1.jpg) | ![Salon 2](imgs/salon2.jpg) | ![Cuisine 3](imgs/cuisine3.jpg) | 
+|   |   |
+|:-:|:-:|
+| ![Salon 1](imgs/salon1.jpg) | ![Salon 2](imgs/salon2.jpg) | 
 
 Le bureau (amménageable en 3ème chambre)
 
@@ -120,5 +120,6 @@ Nous contacter
 Pour nous contacter:
 
 - par email : [claireetseverin@guakamole.org](mailto:claireetseverin@guakamole.org)
-- par téléphone : +447907986893
+- par téléphone : 00447907986893 (numéro en Angleterre où nous sommes
+  actuellement résident)
 
