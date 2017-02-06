@@ -1,0 +1,29 @@
+@import "https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700";
+
+body {
+    color: #999;
+    font: 300 30px/1.5 Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding: 0 5%;
+    margin-top: 120px;
+    background-attachment: fixed;
+    background-color: black;
+    background-size: cover;
+}
+
+ul {
+    list-style: none
+}
+
+a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+h1 {
+    color: #eee;
+    font-size: 50px;
+}
+
+img {
+    height:300px;
+}
