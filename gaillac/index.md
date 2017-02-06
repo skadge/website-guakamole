@@ -121,5 +121,5 @@ Pour nous contacter:
 
 - par email : [claireetseverin@guakamole.org](mailto:claireetseverin@guakamole.org)
 - par téléphone : 00447907986893 (numéro en Angleterre où nous sommes
-  actuellement résident)
+  actuellement résidents)
 
