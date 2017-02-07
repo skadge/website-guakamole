@@ -107,7 +107,7 @@ la maison de 10m², et le jardin de 90m².
 
 - *Quel est le montant de la taxe d'habitation ?*
 
-Environ 800 euros.
+Environ 250 euros.
 
 - *Comment la maison est-elle chauffée ?*
 
